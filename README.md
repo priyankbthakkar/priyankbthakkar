@@ -22,7 +22,7 @@
 - ⚙️ MLOps & Deployment: Skilled in building production-grade ML systems using Docker, Kubernetes, MLflow, Kubeflow, and setting up CI/CD pipelines with monitoring via Prometheus & Grafana
 - ☁️ Cloud Platforms (AWS): Hands-on experience with EC2, Lambda, Elastic Beanstalk, EBS, SageMaker, ECR, ECS, EKS, CloudFront, CloudWatch, and Load Balancers for scalable AI/ML deployments
 - 👩‍🎓 Mentored 2 PhD scholars to completion, with 2 theses currently under review and 1 expected submission by Feb 2026
-- 🏆 50+ publications (15+ SCI) with 2750+ citations — recognized for high-impact AI/ML research  
+- 🏆 50+ publications (15+ SCI) with 2750+ citations — recognized for high-impact AI/ML/DL research  
 > 💡 My mission is to transform cutting-edge AI research into scalable, production-grade solutions.
 
 ---
