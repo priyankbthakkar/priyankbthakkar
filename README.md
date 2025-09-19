@@ -67,7 +67,7 @@ Unified deep learning pipeline combining **Computer Vision and NLP models** for 
 ## 📫 Connect With Me
 
 - 📧 [priyankbthakkar@gmail.com](mailto:priyankbthakkar@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/priyank-thakkar-4701689b)  
 - 🧠 [Google Scholar](https://scholar.google.com/citations?user=0MNT3h8AAAAJ&hl=en)  
 - 📊 [Kaggle](https://www.kaggle.com/priyankdl)
 
