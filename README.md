@@ -15,8 +15,8 @@
 
 - 🎓 PhD in Computer Science & Engineering
 - 💼 25+ years of experience (15+ in AI/ML/DL Research & Development)  
-- 🧠 Expertise in Machine Learning, Deep Learning, Computer Vision, NLP, Recommender Systems
-- 🤖 Building with Generative AI, Agentic AI, Large Language and Vision Models (LLMs)
+- 🧠 Expertise in Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Recommender Systems
+- 🤖 Building with Generative AI, Agentic AI, Large Language and Vision Models (LLMs & LVMs)
 - ⚙️ Skilled in LangChain, LangGraph, CrewAI, HuggingFace, PyTorch, Python, Scikit-Learn
 - 📈 End-to-end Model Development: Proficient in model training, hyperparameter tuning, validation, and advanced optimization techniques including PEFT, quantization, and knowledge distillation
 - ⚙️ MLOps & Deployment: Skilled in building production-grade ML systems using Docker, Kubernetes, MLflow, Kubeflow, and setting up CI/CD pipelines with monitoring via Prometheus & Grafana
@@ -30,10 +30,10 @@
 ## 🧠 Tech Stack
 
 **AI & ML**  
-`Python` `PyTorch` `TensorFlow` `scikit-learn` `LangChain` `LangGraph` `CrewAI` `HuggingFace`
+`Python` `PyTorch` `scikit-learn` `LangChain` `LangGraph` `CrewAI` `HuggingFace`
 
 **MLOps & Deployment**  
-`Docker` `Kubernetes` `GitHub Actions` `MLflow` `Kubeflow` `Weights & Biases` `AWS SageMaker`
+`Flask` `Docker` `Pipelines` `Jenkins` `Kubernetes` `MLflow` `Kubeflow` `Weights & Biases` `AWS`
 
 **Data & Tools**  
 `Pandas` `NumPy` `OpenCV` `NLTK` `spaCy` `Matplotlib` `scipy` `SQL`
